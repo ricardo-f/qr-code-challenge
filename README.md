@@ -1,7 +1,7 @@
 # QR Code Challenge
 
 ## Objective:
-Create a replica of the frontend mentor challenge called: [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H), based on the [challenge guide](challenge-guide.md) and the [style guide](style-guide.md)
+Create a replica of the frontend mentor challenge called: [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## How:
 - Using only HTML and CSS

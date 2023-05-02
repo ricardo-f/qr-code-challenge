@@ -16,3 +16,4 @@ Create a replica of the frontend mentor challenge called: [QR code component](ht
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Units](https://www.w3schools.com/cssref/css_units.php)
 - [What’s The Difference Between PX, EM, REM, %, VW, and VH?](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/)
+- [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
